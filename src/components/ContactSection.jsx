@@ -60,9 +60,7 @@ const ContactSection = () => {
             <div className='grid md:grid-cols-2 gap-8'>
                 <div>
                     <p className='text-gray-400 mb-8 leading-relaxed'>
-                        bc c j cj jcbah ca jajh j ja hj
-                        a aj ja jahbahc hjabchavchbashcbahcvha
-                        cvacbhachaca  ajkc
+                       I’m always open to discussing new opportunities, collaborations, and innovative projects. Feel free to reach out if you'd like to work together or just connect.
                     </p>
                     <div className='space-y-6'>
                         {ContactInfo.map((info)=>{
