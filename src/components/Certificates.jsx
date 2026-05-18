@@ -21,11 +21,11 @@ const Certificates = () => {
         },
         {
             id:3,
-            title:'jbbcwcc',
+            title:'Frontend Developer Intern',
             issuer:'IIT Kharagpur',
-            date:'cbcb',
+            date:'May 2026-July2026',
             link:'#',
-            desc:'jh   a c'
+            desc:'Currently Working'
         },
         {
             id:4,
